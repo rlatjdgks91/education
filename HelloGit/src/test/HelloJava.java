@@ -9,7 +9,10 @@ public class HelloJava {
 		System.out.println("First Commit work");
 		
 		System.out.println("Second Commit work");
+		
+		System.out.println("GitHub data insert");		
 
+		
 	}
 
 }
