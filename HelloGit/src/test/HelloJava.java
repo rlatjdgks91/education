@@ -7,6 +7,8 @@ public class HelloJava {
 		
 		System.out.println("Hello Java~~~");
 		System.out.println("First Commit work");
+		
+		System.out.println("Second Commit work");
 
 	}
 
